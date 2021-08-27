@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="calculateBtn">Calcular</string>
+    <string name="hint_height">Altura (ex: 1.75 m)</string>
+    <string name="hint_weight">Peso (ex: 70 Kg)</string>
+    <string name="classificationTxt">Sua classificação: </string>
+
+</resources>
